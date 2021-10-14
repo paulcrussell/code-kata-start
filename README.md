@@ -1,7 +1,5 @@
 # Conway - Game of Life
 
-[Solutions](./conway-game-of-life/solutions)
-
 This Kata is about calculating the next generation of Conway’s game of life, given any starting position. See http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life for background.
 
 You start with a two dimensional grid of cells, where each cell is either alive or dead. In this version of the problem, the grid is finite, and no life can exist off the edges. When calcuating the next generation of the grid, follow these rules:
@@ -38,6 +36,4 @@ Generation 2:
 
 
 # Suggested Test Cases
-Make sure you have enough coverage of edge
-
-cases - where there are births and deaths at the edge of the grid.
+Make sure you have enough coverage of edge cases - where there are births and deaths at the edge of the grid.
